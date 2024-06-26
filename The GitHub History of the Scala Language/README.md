@@ -1,7 +1,8 @@
 # The GitHub History of the Scala Language
 
 This project investigates the commit history of the Scala programming language, providing insights into the development patterns and community contributions over the years. The project is a part of the Data Engineering course at Saylani Mass IT Training, supervised by Sir Qasim Hassan.
-![The GitHub History of the Scala Language](https://github.com/umair7228/The-GitHub-History-of-the-Scala-Language-Project/assets/154393500/393999eb-6497-442e-9621-b5a65ea7ad20)
+![The GitHub History of the Scala Language](https://github.com/umair7228/Data-Analysis-Mini-Projects/assets/154393500/4a5e021b-213a-4f8b-b794-7d091cc4285c)
+
 
 ## Project Overview
 
